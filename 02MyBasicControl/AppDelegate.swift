@@ -5,7 +5,7 @@
 //  Created by imac_kkn on 2020/05/30.
 //  Copyright © 2020 imac_kkn. All rights reserved.
 //
-
+//22/07/26 이전파일받아서 다음단계로 넘어감
 import UIKit
 
 @UIApplicationMain

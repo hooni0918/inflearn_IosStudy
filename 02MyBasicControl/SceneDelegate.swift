@@ -7,6 +7,8 @@
 //
 // 새로생긴거라 나중에 생각해도 무관
 
+//22/07/26 이전파일받아서 다음단계로 넘어감
+
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
