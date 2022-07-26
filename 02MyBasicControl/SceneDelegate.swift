@@ -5,6 +5,7 @@
 //  Created by imac_kkn on 2020/05/30.
 //  Copyright © 2020 imac_kkn. All rights reserved.
 //
+// 새로생긴거라 나중에 생각해도 무관
 
 import UIKit
 
